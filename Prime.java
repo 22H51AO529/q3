@@ -19,8 +19,6 @@ public class Prime
             }
         }
         System.out.println("prime");
-            System.out.println("prime number");
-        System.out.println("hello");
-        System.out.println("job prime");
+           
     }
 }
